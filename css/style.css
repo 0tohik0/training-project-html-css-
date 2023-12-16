@@ -53,18 +53,24 @@ a {
     cursor: pointer;
 }
 .button-primary {
-    flex-direction: column;
+    position: relative;
     align-self: flex-start;
+    font-size: 18px;
     text-decoration: none;
     border: none;
     background: white;
+    border-bottom: 1px solid #212529;
 }
 /*  */
 .promo {
+    position: relative;
     margin-top: 40px;
 }
 .promo-title {
     padding-left: 8px;
     font-size: 72px;
     font-weight: 400;
+}
+.promo-button {
+    margin-top: 17%;
 }

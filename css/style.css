@@ -120,3 +120,13 @@ a {
 .title-year {
     margin-top: 44px;
 }
+/*  */
+.mini-desc-work {
+    width: 350px;
+    padding-bottom: 25px;
+}
+.mini-block-line {
+    display: flex;
+    border-bottom: 1px solid #212529;
+
+}

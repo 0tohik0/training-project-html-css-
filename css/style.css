@@ -30,8 +30,32 @@ a {
     display: flex;
     justify-content: space-between;
 }
+.section {
+    margin-top: 120px;
+}
 .title {
     font-family: "helvetica-regular";
+}
+.mini-title {
+    font-size: 36px;
+    font-weight: normal;
+    margin-top: 24px;
+}
+.mini-desc {
+    width: 150px;
+    line-height: 140%;
+}
+.title-text {
+    font-family: "helvetica-regular";
+    font-weight: normal;
+    font-size: 48px;
+    width: 500px;
+    line-height: 140%;
+}
+.desc {
+    font-size: 16px;
+    line-height: 140%;
+    width: 450px;
 }
 /*  */
 .header {
@@ -85,4 +109,14 @@ a {
 }
 .promo-button {
     margin-top: 17%;
+}
+/*  */
+.years-block2 {
+    margin-right: 16.5%;
+}
+.desc-years {
+    margin-top: 16px;
+}
+.title-year {
+    margin-top: 44px;
 }

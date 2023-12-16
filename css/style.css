@@ -66,6 +66,9 @@ a {
     position: relative;
     margin-top: 40px;
 }
+.promo-block {
+    display: flex;
+}
 .promo-title {
     padding-left: 8px;
     font-size: 72px;
